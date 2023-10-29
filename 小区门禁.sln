@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "小区门禁", "小区门禁\小区门禁.vcxproj", "{D2253830-3DAD-4C24-AC12-CC14A3F2EB6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2253830-3DAD-4C24-AC12-CC14A3F2EB6F}.Debug|x64.ActiveCfg = Debug|x64
+		{D2253830-3DAD-4C24-AC12-CC14A3F2EB6F}.Debug|x64.Build.0 = Debug|x64
+		{D2253830-3DAD-4C24-AC12-CC14A3F2EB6F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2253830-3DAD-4C24-AC12-CC14A3F2EB6F}.Debug|x86.Build.0 = Debug|Win32
+		{D2253830-3DAD-4C24-AC12-CC14A3F2EB6F}.Release|x64.ActiveCfg = Release|x64
+		{D2253830-3DAD-4C24-AC12-CC14A3F2EB6F}.Release|x64.Build.0 = Release|x64
+		{D2253830-3DAD-4C24-AC12-CC14A3F2EB6F}.Release|x86.ActiveCfg = Release|Win32
+		{D2253830-3DAD-4C24-AC12-CC14A3F2EB6F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B3712E-CA93-4909-950B-2BC6F6D9646F}
+	EndGlobalSection
+EndGlobal
